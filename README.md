@@ -23,6 +23,7 @@ Point A: 100,100
 Point B: 400,400
 
 The script will output the surface distance between the two points and the difference in distance between pre- and post-eruption height maps.
+For the above points the Difference of path lengths:  330.0 Meters
 
 Visualization
 For visualization, run the script. It will generate visualizations showing the terrain and the shortest path between the points.
